@@ -1,1 +1,2 @@
-I love shell
+#!/bin/bash
+Prints out the current working directory
