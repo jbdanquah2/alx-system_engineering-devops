@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t -p | grep -v / | tail -n 10
+ls -tp | grep -v / | tail
