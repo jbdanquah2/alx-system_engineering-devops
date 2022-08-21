@@ -1,2 +1,2 @@
-#!/bin/bash
-Prints out the current working directory
+This focuses on the shell basis
+
