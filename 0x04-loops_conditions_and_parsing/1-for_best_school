@@ -3,5 +3,6 @@
 LST="$i"
 for i in "$LST" {1..10};
 do
-  echo "Best School"
+  TEXT="Best School"
+  echo "$TEXT"
 done
