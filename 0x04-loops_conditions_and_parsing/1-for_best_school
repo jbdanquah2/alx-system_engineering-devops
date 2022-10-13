@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # This script print 'BEST SCHOOL' 10 times
 LST="$i"
-for i in "$LST" {1..10};
+for i in "$LST" {1..9};
 do
   TEXT="Best School"
   echo "$TEXT"
