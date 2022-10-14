@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Retrieve lines container bash
+# shellcheck disable=SC2009
+
+ps -auxf | grep "bash"
