@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Display IP addresses and HTTP code from logs
+
+awk '{print $1 " " $9 }' apache-access.log 
