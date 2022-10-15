@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Kills a process that prevents termination
+
+pkill -f -SIGKILL 7-highlander
