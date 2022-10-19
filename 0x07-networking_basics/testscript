@@ -1,9 +1,0 @@
-#!/bin/bash
-msg=$2
-echo $(git status)
-echo ""
-echo $(git add $1)
-echo ""
-echo `$(git commit -m "$msg")`
-
-
