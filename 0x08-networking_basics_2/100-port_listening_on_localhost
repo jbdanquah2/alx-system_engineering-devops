@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script to open and listen to port 98
+
+sudo nc -l 98
