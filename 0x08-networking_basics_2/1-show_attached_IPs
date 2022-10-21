@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# displays all active IP addresses
+
+ifconfig | grep "inet" | cut -d " " -f 10
