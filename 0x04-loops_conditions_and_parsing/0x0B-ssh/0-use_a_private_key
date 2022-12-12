@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# Uses ssh to connect to a server by private key
